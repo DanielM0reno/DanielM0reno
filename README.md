@@ -7,7 +7,7 @@
 <!-- 
 - 🚀 Actualmente trabajando en [Tu Empresa o Proyecto Actual] -->
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
-- 💡 Apasionado por el desarrollo web moderno: Creando experiencias de usuario excepcionales con tecnologías como React, Vue y herramientas de construcción como Webpack.
+- 💡 Apasionado por el desarrollo web moderno: Creando experiencias de usuario excepcionales con tecnologías como React, Vue, Wordpress y herramientas de construcción como Webpack.
 
 ## Mis Proyectos Destacados
 
