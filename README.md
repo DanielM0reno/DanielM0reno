@@ -14,14 +14,19 @@
 ### Proyectos en Producción Activa
 Desde aplicaciones web hasta soluciones de inteligencia artificial, cada proyecto refleja mi dedicación a materializar ideas en entornos operativos, creando impacto y ofreciendo experiencias significativas.
 
-- Proyecto Freelance: Plataforma Integral de Citas y Blog Personalizado 
-    - [Blanca Nutricion Ibiza](https://blancaibizanutricion.com/) 
+- Proyecto Freelance: Plataforma Integral de Citas y Blog Personalizado. [Blanca Nutricion Ibiza](https://blancaibizanutricion.com/) 
 
-- Proyecto Freelance: Portfolio profesional
-    - [Lorena Marco Vilar](https://danielm0reno.github.io/WebTheme-Portfolio_LorenaMarcoVilar/)
+![Blanca Nutricion Ibiza](/assets/img/banner_bin.jpg) ![Blanca Nutricion Ibiza](/assets/img/banner_bin2.jpg)
 
-- Proyecto Freelance: Landing de presentacion
-    - [Forja Arroyo](https://forjaarroyo.es/)
+- Proyecto Freelance: Portfolio profesional. [Lorena Marco Vilar](https://danielm0reno.github.io/WebTheme-Portfolio_LorenaMarcoVilar/)
+
+![Lorena Marco Vilar](/assets/img/Portfolio_banner_LMV.jpg)
+
+- Proyecto Freelance: Landing de presentacion. [Forja Arroyo](https://forjaarroyo.es/)
+
+- Proyecto Freelance: Landing DEMO para Bar/Restaurante. [Bar Restaurante](https://danielm0reno.github.io/WebTheme-Restaurant)
+
+![Bar Restaurante](/assets/img/Banner_restaurant.jpg) ![Bar Restaurante](/assets/img/Banner_restaurant2.jpg)
 
 ## Contribuciones y Colaboraciones
 
