@@ -22,7 +22,9 @@ Desde aplicaciones web hasta soluciones de inteligencia artificial, cada proyect
 
 ![Lorena Marco Vilar](/assets/img/Portfolio_banner_LMV.jpg)
 
-- Proyecto Freelance: Landing de presentacion. [Forja Arroyo](https://forjaarroyo.es/)
+- Proyecto Freelance: Landing de presentacion para empresa. [Forja Arroyo](https://forjaarroyo.es/)
+
+![Forja Arroyo](/assets/img/banner_forja1.jpg) ![Forja Arroyo](/assets/img/banner_forja2.jpg)
 
 - Proyecto Freelance: Landing DEMO para Bar/Restaurante. [Bar Restaurante](https://danielm0reno.github.io/WebTheme-Restaurant)
 
