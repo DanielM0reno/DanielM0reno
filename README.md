@@ -7,7 +7,14 @@
 <!-- 
 - 🚀 Actualmente trabajando en [Tu Empresa o Proyecto Actual] -->
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
-- 💡 Apasionado por el desarrollo web moderno: Creando experiencias de usuario excepcionales con tecnologías como React, Vue, Wordpress y herramientas de construcción como Webpack.
+- 💡 Apasionado por el desarrollo web moderno y  la gestión de tecnologías de la información.
+- 🚀 Exceperiencia en:
+    - **SGBD**: MySQL, PostgreSQL, Oracle Database.
+    - **Tecnologías de desarrollo de software**: Java, Python, JavaScript, PHP, C#, C++.
+    - **Tecnologías web**: HTML, CSS, jQuery, Ajax, 
+    - **FrameWokrs**: Spring, Django, React, Laravel, Bootstrap.
+    - **CMS**: WordPress, Hugo, PrestaShop.
+    - **Otras tecnologias**: NodeJS, Docker, Kubernetes.
 
 ## Mis Proyectos Destacados
 
