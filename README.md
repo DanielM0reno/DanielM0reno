@@ -10,9 +10,9 @@
 - 💡 Apasionado por el desarrollo web moderno y  la gestión de tecnologías de la información.
 - 🚀 Exceperiencia en:
     - **SGBD**: MySQL, PostgreSQL, Oracle Database.
-    - **Tecnologías de desarrollo de software**: Java, Python, JavaScript, PHP, C#, C++.
+    - **Tecnologías de desarrollo de software**: Java, Python, JavaScript, Kotlin, PHP, C#, C++.
     - **Tecnologías web**: HTML, CSS, jQuery, Ajax, 
-    - **FrameWokrs**: Spring, Django, React, Laravel, Bootstrap.
+    - **FrameWokrs**: Spring, Django, React, Laravel, Yii, Bootstrap, IONIC.
     - **CMS**: WordPress, Hugo, PrestaShop.
     - **Otras tecnologias**: NodeJS, Docker, Kubernetes.
 
