@@ -13,7 +13,7 @@
     - **Tecnologías de desarrollo de software**: Java, Python, JavaScript, Kotlin, PHP, C#, C++.
     - **Tecnologías web**: HTML, CSS, jQuery, Ajax, 
     - **FrameWokrs**: Spring, Django, React, Laravel, Yii, Bootstrap, IONIC.
-    - **CMS**: WordPress, Hugo, PrestaShop.
+    - **CMS**: WordPress, Hugo.
     - **Otras tecnologias**: NodeJS, Docker, Kubernetes.
 
 ## Mis Proyectos Destacados
